@@ -1,1 +1,85 @@
-
+<html lang="en">
+ 
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="resume.css">
+</head>
+ 
+<body>
+    <div class="full">
+        <div class="left">
+            <div class="image">
+                <img src=
+"https://media.geeksforgeeks.org/wp-content/uploads/20220202083519/gfglogo.png"
+                     alt="gfg-logo"
+                     style="width:100px;height:100px;">
+            </div>
+            <div class="Contact">
+			<p>Name:Khalid Alqahtani</p>
+                <h2 style="color: white; font-family: Arial;">Contact</h2>
+                <p><b>Email id:</b>xyz@gmail.com</p>
+                <p><b>Mobile no :</b>1234567890</p>
+            </div>
+            <div class="Skills">
+                <h2 style="color: white; font-family: Arial;">Skills</h2>
+                <ul>
+                    <li><b>Programming Languages :
+                      Python, Java, C++</b></li>
+                    <li><b>Frontend : HTML5, CSS3,
+                      JavaScript, React</b></li>
+                    <li><b>Backend : Node.js</b></li>
+                </ul>
+            </div>
+            <div class="Language">
+                <h2 style="color: white; font-family: Arial;">Language</h2>
+                <ul>
+                    <li> Arabic language </li>
+<li> English language </li>
+<li> Russian language </li>
+<li> little bosnian language</li>
+                </ul>
+            </div>
+            <div class="Hobbies">
+                <h2 style="color: white; font-family: Arial;">Hobbies</h2>
+                <ul>
+                    <li>Playing cricket</li>
+                    <li>Swimming</li>
+                </ul>
+            </div>
+        </div>
+        
+		
+            <div class="Summary">
+                <h2 style="color: white; font-family: Arial;">Summary</h2>
+                <p>To secure a challenging position in a
+                  reputable organization
+                    to expand my learning knowledge and skill
+                </p>
+            </div>
+            <div class="Experience">
+                <h2 style="color: white; font-family: Arial;">Experience</h2>
+                <h3>Senior Web Developer</h3>
+                <p>January 2022 to Present</p>
+                <ul>
+                    <li>Actively engaged in web creative
+                      design and development.</li>
+                    <li>Designing project & planning</li>
+                </ul>
+                <h3>junior web developer</h3>
+                <p>August 2021 to December 2021</p>
+                <ul>
+                    <li>Actively engaged in web creative
+                      design and development.</li>
+                    <li>Designing project & planning</li>
+                    <li>Working on designing</li>
+                </ul>
+            </div>
+            
+        </div>
+    </div>
+</body>
+ 
+</html>
